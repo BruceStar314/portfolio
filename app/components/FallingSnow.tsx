@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useRef } from 'react';
 
 interface Snowflake {
@@ -62,7 +64,7 @@ export default function FallingSnow() {
   gradient.addColorStop(0.5, `rgba(255, 255, 255, ${flake.opacity * 0.5})`);
   gradient.addColorStop(1, 'rgba(255, 255, 255, 0)');
 
-  ctx.beinPath();
+  ctx.beginPath();
   ctx.arc(flake.x, flake.y, flake.radius * 2, 0, Math.PI * 2);
   ctx.fillStyle = gradient;
   ctx.fill();
@@ -96,7 +98,7 @@ cancelAnimationFrame(animationFrameId);
   return (
   <canvas 
       ref={canvasRef} 
-      className="fixed inset-0 pointer-events-none z-0" /> }}
+      className="fixed inset-0 pointer-events-none z-0" 
     style={{ mixBlendMode: 'screen' }}
     />
   );
