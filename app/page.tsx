@@ -43,7 +43,17 @@ export default function App() {
     </div>
 
     {/* Technologies Card */}
+    <div className="bg-card rounded-2xl p-8">
+    <h3 className="text-xl mb-6">Technologies I have worked with</h3>
+    <div className="grid grid-cols-4 gap-4">
+    {/* Temp holder */}
+    {/* Row 1 */}
+    <div className="w-12 h-12 bg-muted rounded-lg flex items-center justify-center">
+    <span>JS</span>
+    {/* Row 2 */}
+    {/* Row 3 */}
     </div>
-
+    </div>
+    </div>
   );
 }
