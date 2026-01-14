@@ -94,7 +94,7 @@ export default function App() {
     </p>
     </div>
 
-    <div><
+    <div>
     <h3 className="text-xl mb-2">
     lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. {/*Filler text*/}
     </h3>
