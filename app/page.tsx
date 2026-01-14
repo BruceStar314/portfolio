@@ -64,6 +64,48 @@ export default function App() {
     <h3 className="text-2xl text-cyan-400">Bruce Reeves</h3>
     </div>
 
-    
+    {/*Quote card*/}
+    <div className="bg-accent rounded-2xl p-8 flex items-center justify-center md:col-span-2 lg:col-span-3">
+    <h3 className="text-2xl text-center">
+    M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuaWdodCUyMHNreSUyMG1pbGt5JTIwd2F5JTIwZm9yZXN0fGVufDF8fHx8MTc2ODE3MTg2Nnw
+    </h3>
+    </div>
+    </div>
+
+    {/*Education Section*/}
+    <div className="mt-8 bg-card rounded-2xl p-8">
+    <h2 className="text-3xl mb-6">Education</h2>
+
+    <div className="mb-6">
+    <h3 className="text-xl mb-2">
+    High School Diploma - Springfield High School (2015 - 2019) {/*Filler text*/}
+    </h3>
+    <p className="text-muted-foreground">
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    </div>
+
+    <div className="mb-6">
+    <h3 className="text-xl mb-2">
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. {/*Filler text*/}
+    </h3>
+    <p className="text-muted-foreground">
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    </div>
+
+    <div><
+    <h3 className="text-xl mb-2">
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. {/*Filler text*/}
+    </h3>
+    <p className="text-muted-foreground">
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
   );
 }
+
