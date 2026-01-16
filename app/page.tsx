@@ -13,7 +13,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto mt-12">
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_auto] gap-8 mb-8">
             {/* Who am I Section */}
-            <div className="bg-card rounded-2xl p-8">
+            <div className="bg-blue-900 rounded-2xl p-8">
               <h2 className="text-3xl mb-4">Who am I?</h2>
               <p className="text-muted-foreground leading-relaxed">
                 Hey! My Name is Tim Gatzke, I am a Full Stack Developer and I am currently a
@@ -36,7 +36,7 @@ export default function App() {
           {/* Cards Grid Section */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Student & Full Stack Developer Card */}
-            <div className="bg-accent rounded-2xl p-8 flex items-center justify-center">
+            <div className="bg-blue-900 rounded-2xl p-8 flex items-center justify-center">
               <div className="text-center">
                 <h3 className="text-2xl mb-2">Stundent &</h3>
                 <h3 className="text-2xl">Full Stack Developer</h3>
@@ -44,7 +44,7 @@ export default function App() {
             </div>
 
             {/* Technologies Card */}
-            <div className="bg-card rounded-2xl p-8">
+            <div className="bg-blue-900 rounded-2xl p-8">
               <h3 className="text-xl mb-6">Technologies I have worked with</h3>
               <div className="grid grid-cols-4 gap-4">
                 {/* Row 1 */}
@@ -92,7 +92,7 @@ export default function App() {
             </div>
 
             {/* Tim Gatzke Name Card */}
-            <div className="bg-card rounded-2xl p-8 flex flex-col items-center justify-center">
+            <div className="bg-blue-900 rounded-2xl p-8 flex flex-col items-center justify-center">
               <div className="w-20 h-20 bg-gradient-to-br from-pink-300 to-pink-500 rounded-full mb-4 flex items-center justify-center">
                 <span className="text-4xl">+</span>
               </div>
@@ -100,7 +100,7 @@ export default function App() {
             </div>
 
             {/* Quote Card */}
-            <div className="bg-accent rounded-2xl p-8 flex items-center justify-center md:col-span-2 lg:col-span-3">
+            <div className="bg-blue-900 rounded-2xl p-8 flex items-center justify-center md:col-span-2 lg:col-span-3">
               <h3 className="text-2xl text-center">
                 "The only way to do great work is to love what you do."
               </h3>
@@ -108,7 +108,7 @@ export default function App() {
           </div>
 
           {/* Education Section */}
-          <div className="mt-8 bg-card rounded-2xl p-8">
+          <div className="mt-8 bg-blue-900 rounded-2xl p-8">
             <h2 className="text-3xl mb-6">Education</h2>
             
             <div className="mb-6">
