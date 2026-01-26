@@ -114,7 +114,7 @@ export default function App() {
                 High School <span className="text-muted-foreground">(2018 - Today)</span>
               </h3>
               <p className="text-muted-foreground">
-                I am currently attending the 10th class of a Gemeinschaftsschule in Germany.
+                MIT is the dream!
               </p>
             </div>
 
@@ -123,16 +123,16 @@ export default function App() {
                 CS50's Introduction to Computer Science <span className="text-muted-foreground">(2021)</span>
               </h3>
               <p className="text-muted-foreground">
-                I took part in the online course CS50's Introduction to Computer Science by Harvard University.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
 
             <div>
               <h3 className="text-xl mb-2">
-                CS50's Introduction to Game Development <span className="text-muted-foreground">(2022)</span>
+                lorem <span className="text-muted-foreground">(2022)</span>
               </h3>
               <p className="text-muted-foreground">
-                I took part in the online course CS50's Introduction to Game Development by Harvard University in order to learn more about game development with Lua and C#.
+                lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
           </div>
