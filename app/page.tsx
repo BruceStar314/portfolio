@@ -95,7 +95,7 @@ export default function App() {
               <div className="w-20 h-20 bg-gradient-to-br from-pink-300 to-pink-500 rounded-full mb-4 flex items-center justify-center">
                 <span className="text-4xl">+</span>
               </div>
-              <h3 className="text-2xl text-cyan-400">Tim Gatzke</h3>
+              <h3 className="text-2xl text-cyan-400">Bruce Reeves</h3>
             </div>
 
             {/* Quote Card */}
