@@ -99,7 +99,8 @@ export default function App() {
             {/* Quote Card */}
             <div className="bg-blue-900 rounded-2xl p-8 flex items-center justify-center md:col-span-2 lg:col-span-3">
               <h3 className="text-2xl text-center">
-                "The only way to do great work is to love what you do."
+                {/*Need a real quote*/}
+                "Random quote about programming that sounds deep but is actually just gibberish."
               </h3>
             </div>
           </div>
