@@ -1,3 +1,5 @@
+import contact from './contact';
+import projects from './projects';
 export default function Navigation() {
   return (
   <nav className="w-full flex justify-center py-8">

@@ -1,7 +1,6 @@
 import Navigation from './components/Navigation';
 import { ImageWithFallback } from './components/fallback/ImageWithFallback';
 import FallingSnow from './components/FallingSnow';
-
 export default function App() {
   return (
     <div className="min-h-screen bg-background text-foreground px-8 pb-12 relative">
