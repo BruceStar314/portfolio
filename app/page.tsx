@@ -14,11 +14,9 @@ export default function App() {
             {/* Who am I Section */}
             <div className="bg-blue-900 rounded-2xl p-8">
               <h2 className="text-3xl mb-4">Who am I?</h2>
+              {/*Need to put in real info*/}
               <p className="text-muted-foreground leading-relaxed">
-                Hey! My Name is Tim Gatzke, I am a Full Stack Developer and I am currently a
-                student in Germany. I am passionate about creating software solutions and I am
-                always looking for new challenges. If you have a project that you would like to
-                work on, feel free to contact me.
+                M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuaWdodCUyMHNreSUyMG1pbGt5JTIwd2F5JTIwZm9yZXN0fGVufDF8fHx8MTc2ODE3MTg2Nnww
               </p>
             </div>
 
