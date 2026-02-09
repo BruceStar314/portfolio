@@ -16,10 +16,10 @@ export default function App() {
               <h2 className="text-3xl mb-4">Who am I?</h2>
               {/*Need to put in real info*/}
               <p className="text-muted-foreground leading-relaxed">
-                M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuaWdodCUyMHNreSUyMG1pbGt5JTIwd2F5JTIwZm9yZXN0fGVufDF8fHx8MTc2ODE3MTg2Nnww
+                I’m an aspiring full stack developer with a strong problem-solving mindset and a focus on building practical, efficient solutions. I enjoy turning complex ideas into clean, functional applications and continuously improving my skills with every project I take on.
+                I bring discipline, persistence, and a willingness to learn quickly — whether working independently or as part of a team. My goal is to grow into an engineer who can build technology that makes a real-world impact.
               </p>
             </div>
-
             {/* Night Sky Image */}
             <div className="hidden lg:block">
               <ImageWithFallback 
